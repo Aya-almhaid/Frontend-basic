@@ -1,0 +1,41 @@
+#navbar{
+height: 250px;
+background-color: blue;
+margin-top: auto;
+  
+}
+
+#well{
+margin-bottom: -15px;
+margin-left: 470px;
+color: white;
+padding-top: 20px;
+}
+#content{
+
+
+}
+#footer{
+height: 150px;
+background-color: blue;
+margin-top: 300px;
+}
+#navBottons{
+margin-top: 100px;
+height: 100px;
+
+}
+button{
+margin-left: 150px;
+margin-top: 70px;
+height:50px;
+width: 90px;
+border-radius: 20px;
+}
+#fooHead{
+  position: absolute;
+    margin-left:500px;
+    margin-top: 60px;
+    color: white;
+   margin-bottom: -60px;
+}
